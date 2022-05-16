@@ -1,6 +1,6 @@
 # StudyInVue3
 
- - Esse Repositorio foi criado para desenvolver os meus estudos sobre Vue 3 + Composition Api, Pinia e etc. ou seja é um repositorio sobre todo o ecossistema do nosso querido `VUE 3`. 
+ - Esse repositório foi criado para desenvolver os meus estudos sobre Vue 3 + Composition Api, Pinia e etc. ou seja é um repositório sobre todo o ecossistema do nosso querido `VUE 3`. 
  - Logo mais coloco os demais estudos que estou fazendo sobre Pinia, Vue router e usa nova versao, Vuex 4 e assim vai.
 
 # Proximos passos - Next steps
