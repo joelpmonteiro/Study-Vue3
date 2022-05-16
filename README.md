@@ -1,6 +1,15 @@
 # StudyInVue3
 
-This template should help get you started developing with Vue 3 in Vite.
+ - Esse Repositorio foi criado para desenvolver os meus estudos sobre Vue 3 + Composition Api, Pinia e etc. ou seja é um repositorio sobre todo o ecossistema do nosso querido `VUE 3`. 
+ - Logo mais coloco os demais estudos que estou fazendo sobre Pinia, Vue router e usa nova versao, Vuex 4 e assim vai.
+
+# Proximos passos - Next steps
+
+- LifeCycle Vue 3 e seus Hooks 
+- Pinia
+- Vuex 4
+- Vue Router p/ Vue 3
+
 
 ## Recommended IDE Setup
 
