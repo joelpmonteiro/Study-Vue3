@@ -54,3 +54,25 @@ onde ele monta a <div id="app"></div>, exemplo:
 </Portal>
 
 - Tudo que estiver no portal vai ser transferido para a tag <div id="modal"></div>
+
+
+
+* Vue 3 - Variaveis reativas:
+- agora nem tudo e reativo no vue, para tornar uma variavel reativa e precisa referenciar ele a uma função do vue chamada "ref()", exemplo:
+ref: e um hook do vue
+import {ref} from "vue"
+setup{
+    const test = ref('') // declarar vazio
+    return { test}
+}
+
+
+* Sobreescrita de reatividade com ref
+- para escrever na variavel novamente com ela sendo reativa temos que usar a propriedade .value dentro do "setup" exemplo:
+
+setup(){
+    let test = ref('hello world');
+    test.value = 'qualquer coisa'
+}
+
+-- usando desta forma a variavel test continua sendo reativa mesmo sobreescrevendo o ref
